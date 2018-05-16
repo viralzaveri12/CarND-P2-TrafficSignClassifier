@@ -31,7 +31,7 @@ The goals / steps of this project are the following:
 
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
 
-You are reading the Writeup / README for the Traffic Sign Classifier project and here is a link to my project code [`P2_TrafficSignClassfier.ipynb`](https://github.com/viralzaveri12/CarND-P2-TrafficSignClassifier/blob/master/P2_TrafficSignClassfier.ipynb)
+You are reading the Writeup / README for the Traffic Sign Classifier project and here is a link to my project code [`P2_TrafficSignClassifier.ipynb`](https://github.com/viralzaveri12/CarND-P2-TrafficSignClassifier/blob/master/P2_TrafficSignClassifier.ipynb)
 
 ### Data Set Summary & Exploration
 
